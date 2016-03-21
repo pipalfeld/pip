@@ -1,0 +1,62 @@
+body {
+    background-color: #f2f2f2;
+    font-family: sans-serif;
+    
+}
+*{ outline: yellow solid 1px;
+
+}
+
+.header {
+    background-color: #2d303a;
+
+}
+body {margin: 0;
+}
+
+.nav {
+   max-width: 950px;
+    margin-left: auto;
+     margin-right: auto;
+     color: white;
+     height: 90px;
+}
+
+.logo {
+    float: left;
+    margin-top: 30px;
+    font-size: 1.3em;
+    color: #44495b;
+
+}
+.link {
+    float: right;
+    margin-top: 30px;
+    font-size: 0.75em;
+}
+.salmon{
+    color: #f06c64
+}   
+.link a {
+    color: white;
+    text-decoration: none;
+    padding-left: 10px;
+      padding-right: 10px;
+}
+
+@media screen and (max-width:500px) {
+   .link {
+    margain-top: 5px;
+   }
+}
+
+<div class="phone"> 
+
+<img src "desktop/phone.png"</div>
+
+
+
+
+
+
+
